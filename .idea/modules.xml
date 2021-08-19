@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ItRexGroup.iml" filepath="$PROJECT_DIR$/.idea/ItRexGroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextUpdate/TextUpdate.iml" filepath="$PROJECT_DIR$/TextUpdate/TextUpdate.iml" />
+    </modules>
+  </component>
+</project>
